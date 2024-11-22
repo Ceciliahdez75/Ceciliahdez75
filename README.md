@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 - 🔭 I’m currently working on html,js,css.
 - 🌱 I’m currently learning react.
 - 👯 I’m looking to collaborate on rpojects.
